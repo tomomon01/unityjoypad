@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{FE78D717-8750-CE00-138D-4EA3DB14286B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MoveScript.cs">
+    <Files>
+      <File FileName="Assets/MoveScript.cs" Line="18" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="scroll" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="MoveScript.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a5deca00-ef34-40e8-9086-f1c6cbedb3d1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
